@@ -1,0 +1,4 @@
+/home/sumit/clion-2019.1.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE= -G "CodeBlocks - Unix Makefiles" /home/sumit/Desktop/cudaCPU
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/sumit/Desktop/cudaCPU/cmake-build-default
